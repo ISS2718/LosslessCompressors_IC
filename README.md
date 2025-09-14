@@ -7,20 +7,6 @@ O objetivo é garantir **transparência** e **reprodutibilidade** dos resultados
 
 ---
 
-## 🙏 Agradecimentos
-
-Este trabalho foi realizado com a colaboração e apoio de:
-
-* **Orientador:** Prof. Dr. Paulo Sergio Lopes de Souza
-* **Co-Orientadora:** Prof. Dr. Simone do Rocio Senger de Souza
-* **Co-Orientador:** Caio Guimarães Herrera
-* **Co-Autor:** Hugo Hiroyuki Nakamura
-
-A pesquisa é complementar ao trabalho desenvolvido por Hugo Hiroyuki Nakamura, cujo repositório pode ser acessado em:
-[Estudo de Compressores com Perda de Informação Aplicados ao Aprendizado Não Supervisionado de Máquina para Teste de Software](https://github.com/ikuyorih9/LossyCompressors_IC)
-
----
-
 ## 📂 Estrutura do Repositório
 
 A estrutura completa de diretórios pode ser consultada no arquivo [`estrutura.txt`](estrutura.txt).
@@ -105,5 +91,19 @@ Os resultados dos experimentos estão disponíveis na pasta [`results/`](results
 
 * Todos os experimentos foram conduzidos a partir do diretório `sources/`.
 * Para reprodutibilidade, recomenda-se utilizar a mesma versão do sistema operacional descrita acima.
+
+---
+
+## 🙏 Agradecimentos
+
+Este trabalho foi realizado com a colaboração e apoio de:
+
+* **Orientador:** Prof. Dr. Paulo Sergio Lopes de Souza
+* **Co-Orientadora:** Prof. Dr. Simone do Rocio Senger de Souza
+* **Co-Orientador:** Caio Guimarães Herrera
+* **Co-Autor:** Hugo Hiroyuki Nakamura
+
+A pesquisa é complementar ao trabalho desenvolvido por Hugo Hiroyuki Nakamura, cujo repositório pode ser acessado em:
+[Estudo de Compressores com Perda de Informação Aplicados ao Aprendizado Não Supervisionado de Máquina para Teste de Software](https://github.com/ikuyorih9/LossyCompressors_IC)
 
 ---
