@@ -1,0 +1,402 @@
+[
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.11519241333007812,
+        "process_time": 0.08340170000000002,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.10553121566772461,
+        "process_time": 0.07023950000000001,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "API",
+        "time": 0.10961055755615234,
+        "process_time": 0.07446840000000021,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "API",
+        "time": 0.11227607727050781,
+        "process_time": 0.06810569999999982,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "API",
+        "time": 0.1202552318572998,
+        "process_time": 0.07087429999999983,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "API",
+        "time": 0.13277053833007812,
+        "process_time": 0.08741999999999983,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "API",
+        "time": 0.12354421615600586,
+        "process_time": 0.06908940000000019,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "API",
+        "time": 0.13187408447265625,
+        "process_time": 0.07053809999999983,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "API",
+        "time": 0.13084745407104492,
+        "process_time": 0.06789759999999978,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "API",
+        "time": 0.13435077667236328,
+        "process_time": 0.07067109999999976,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "API",
+        "time": 0.1378178596496582,
+        "process_time": 0.07243980000000017,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "API",
+        "time": 0.14493656158447266,
+        "process_time": 0.0774054999999998,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.09590792655944824,
+        "process_time": 0.07011969999999978,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.10033512115478516,
+        "process_time": 0.06885770000000013,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "API",
+        "time": 0.10282230377197266,
+        "process_time": 0.07124970000000008,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "API",
+        "time": 0.10955047607421875,
+        "process_time": 0.07012129999999983,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "API",
+        "time": 0.11061739921569824,
+        "process_time": 0.07125290000000017,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "API",
+        "time": 0.12471270561218262,
+        "process_time": 0.07462639999999965,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "API",
+        "time": 0.13733434677124023,
+        "process_time": 0.08909060000000002,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "API",
+        "time": 0.12265157699584961,
+        "process_time": 0.07230749999999997,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "API",
+        "time": 0.12361383438110352,
+        "process_time": 0.06892650000000033,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "API",
+        "time": 0.13532066345214844,
+        "process_time": 0.07468809999999992,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "API",
+        "time": 0.13509440422058105,
+        "process_time": 0.0720067000000002,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "API",
+        "time": 0.14013099670410156,
+        "process_time": 0.07623020000000036,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.10369229316711426,
+        "process_time": 0.07779669999999994,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.10949826240539551,
+        "process_time": 0.07864610000000027,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "API",
+        "time": 0.10396051406860352,
+        "process_time": 0.07180399999999976,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "API",
+        "time": 0.11430716514587402,
+        "process_time": 0.08206669999999949,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "API",
+        "time": 0.11414527893066406,
+        "process_time": 0.07952570000000048,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "API",
+        "time": 0.11868739128112793,
+        "process_time": 0.08119319999999952,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "API",
+        "time": 0.12074804306030273,
+        "process_time": 0.08257940000000019,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "API",
+        "time": 0.12034487724304199,
+        "process_time": 0.0803092999999997,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "API",
+        "time": 0.16464591026306152,
+        "process_time": 0.09033009999999919,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "API",
+        "time": 0.17212152481079102,
+        "process_time": 0.11815450000000016,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "API",
+        "time": 0.14392423629760742,
+        "process_time": 0.08399689999999982,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "API",
+        "time": 0.13088250160217285,
+        "process_time": 0.07471270000000008,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.08779263496398926,
+        "process_time": 0.06796779999999991,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.09674549102783203,
+        "process_time": 0.06936979999999959,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_0.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 1,
+        "type": "API",
+        "time": 0.09900999069213867,
+        "process_time": 0.0683783,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_1.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 2,
+        "type": "API",
+        "time": 0.10296845436096191,
+        "process_time": 0.07277310000000003,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_2.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 3,
+        "type": "API",
+        "time": 1.2098157405853271,
+        "process_time": 0.07460030000000017,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_3.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 4,
+        "type": "API",
+        "time": 0.10842394828796387,
+        "process_time": 0.07519110000000051,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_4.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 5,
+        "type": "API",
+        "time": 0.11316514015197754,
+        "process_time": 0.07375150000000019,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_5.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 6,
+        "type": "API",
+        "time": 0.11635851860046387,
+        "process_time": 0.07556730000000034,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_6.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 7,
+        "type": "API",
+        "time": 0.12128281593322754,
+        "process_time": 0.07377579999999995,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_7.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 8,
+        "type": "API",
+        "time": 0.12120270729064941,
+        "process_time": 0.07880010000000048,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_8.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 9,
+        "type": "API",
+        "time": 0.12446045875549316,
+        "process_time": 0.07288270000000008,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_9.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 10,
+        "type": "API",
+        "time": 0.13221454620361328,
+        "process_time": 0.07651219999999981,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_10.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "API",
+        "time": 0.09285902976989746,
+        "process_time": 0.0686340000000003,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "API",
+        "time": 0.09598278999328613,
+        "process_time": 0.07475689999999968,
+        "output": "../../../results/teste/CLUSTERS/IRIS-HABER/API/zlib/zlib_API_0.out"
+    }
+]
