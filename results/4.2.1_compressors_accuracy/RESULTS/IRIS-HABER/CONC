@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 0.1764373779296875,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 0.3395726680755615,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 0.25246357917785645,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 0.20038557052612305,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "webp_lossless",
+        "iteration": 30,
+        "time": 0.8993091583251953,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "jp2_lossless",
+        "iteration": 30,
+        "time": 1.025317668914795,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "png",
+        "iteration": 30,
+        "time": 0.6767849922180176,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 30,
+        "time": 0.18017983436584473,
+        "repetition": 0
+    }
+]

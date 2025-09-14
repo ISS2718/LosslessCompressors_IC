@@ -1,0 +1,66 @@
+[
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "zlib",
+        "iteration": 7,
+        "time": 0.9528818130493164,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "gzip",
+        "iteration": 6,
+        "time": 1.363086223602295,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.9408845901489258,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 0.5647146701812744,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "webp_lossless",
+        "iteration": 11,
+        "time": 5.412954330444336,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "jp2_lossless",
+        "iteration": 7,
+        "time": 3.6229891777038574,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 13.048177719116211,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "TRAIN",
+        "compressor": "entropy",
+        "iteration": 6,
+        "time": 0.8179090023040771,
+        "repetition": 0
+    }
+]

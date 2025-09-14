@@ -1,0 +1,66 @@
+[
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 5.580464124679565,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 7.809482574462891,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 5.73344612121582,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 8.051403045654297,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "webp_lossless",
+        "iteration": -1,
+        "time": 23.578831672668457,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "jp2_lossless",
+        "iteration": 7,
+        "time": 5.020073413848877,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 17.751200914382935,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 4.798814535140991,
+        "repetition": 0
+    }
+]

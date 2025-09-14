@@ -1,0 +1,66 @@
+[
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 0.18064546585083008,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 0.3610548973083496,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 0.20937728881835938,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 0.2721998691558838,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "webp_lossless",
+        "iteration": 30,
+        "time": 0.7943730354309082,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "jp2_lossless",
+        "iteration": 30,
+        "time": 1.0753974914550781,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 0.670734167098999,
+        "repetition": 0
+    },
+    {
+        "load": "WINE-HEART",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 30,
+        "time": 0.18539977073669434,
+        "repetition": 0
+    }
+]

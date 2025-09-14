@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 0.1769089698791504,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 0.33643317222595215,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 0.19854402542114258,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 0.191239595413208,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "webp_lossless",
+        "iteration": -1,
+        "time": 0.8314189910888672,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "jp2_lossless",
+        "iteration": 30,
+        "time": 0.697629451751709,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 0.47964000701904297,
+        "repetition": 0
+    },
+    {
+        "load": "IRIS-HABER",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 0.155930757522583,
+        "repetition": 0
+    }
+]

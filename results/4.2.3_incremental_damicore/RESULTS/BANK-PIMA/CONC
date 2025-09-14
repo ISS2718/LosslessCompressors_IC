@@ -1,0 +1,66 @@
+[
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 9,
+        "time": 1.5137829780578613,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 8,
+        "time": 1.774510145187378,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 3,
+        "time": 0.6094987392425537,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 2,
+        "time": 0.484332799911499,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "webp_lossless",
+        "iteration": 12,
+        "time": 5.902262449264526,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "jp2_lossless",
+        "iteration": 14,
+        "time": 10.99410605430603,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 14.362259149551392,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 0.40666627883911133,
+        "repetition": 0
+    }
+]

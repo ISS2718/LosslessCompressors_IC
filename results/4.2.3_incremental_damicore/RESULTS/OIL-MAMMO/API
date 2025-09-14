@@ -1,0 +1,66 @@
+[
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 15,
+        "time": 2.135855197906494,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 13,
+        "time": 2.9182751178741455,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 8,
+        "time": 1.1170220375061035,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 6,
+        "time": 1.0026226043701172,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "webp_lossless",
+        "iteration": 7,
+        "time": 3.0221972465515137,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "jp2_lossless",
+        "iteration": 17,
+        "time": 8.093641519546509,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "png",
+        "iteration": 21,
+        "time": 8.042604207992554,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 19,
+        "time": 3.831850290298462,
+        "repetition": 0
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "zlib",
+        "iteration": 20,
+        "time": 2.759413480758667,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "gzip",
+        "iteration": 23,
+        "time": 5.733145713806152,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "bz2",
+        "iteration": 13,
+        "time": 2.471841812133789,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "ppmd",
+        "iteration": 16,
+        "time": 2.6231493949890137,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "webp_lossless",
+        "iteration": -1,
+        "time": 22.332576990127563,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "jp2_lossless",
+        "iteration": 20,
+        "time": 12.622559070587158,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "png",
+        "iteration": 29,
+        "time": 19.085221529006958,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "MEMORY",
+        "compressor": "entropy",
+        "iteration": 22,
+        "time": 3.415012836456299,
+        "repetition": 0
+    }
+]

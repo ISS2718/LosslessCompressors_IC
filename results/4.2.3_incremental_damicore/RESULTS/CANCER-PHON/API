@@ -1,0 +1,66 @@
+[
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 16,
+        "time": 2.164501667022705,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 27,
+        "time": 7.273608446121216,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 18,
+        "time": 3.974881649017334,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 13,
+        "time": 2.4054136276245117,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "webp_lossless",
+        "iteration": 25,
+        "time": 17.491137266159058,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "jp2_lossless",
+        "iteration": 15,
+        "time": 11.573391437530518,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "png",
+        "iteration": 10,
+        "time": 4.255919933319092,
+        "repetition": 0
+    },
+    {
+        "load": "CANCER-PHON",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 6,
+        "time": 0.8640799522399902,
+        "repetition": 0
+    }
+]

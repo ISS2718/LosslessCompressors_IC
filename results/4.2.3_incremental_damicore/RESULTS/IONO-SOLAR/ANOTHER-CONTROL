@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "zlib",
+        "iteration": -1,
+        "time": 6.602677822113037,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "gzip",
+        "iteration": -1,
+        "time": 7.955637454986572,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "bz2",
+        "iteration": -1,
+        "time": 6.480073690414429,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 5.842196464538574,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "webp_lossless",
+        "iteration": 29,
+        "time": 22.509259700775146,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "jp2_lossless",
+        "iteration": 6,
+        "time": 3.6435697078704834,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "png",
+        "iteration": 26,
+        "time": 14.666091680526733,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "ANOTHER-CONTROL",
+        "compressor": "entropy",
+        "iteration": -1,
+        "time": 5.16275429725647,
+        "repetition": 0
+    }
+]

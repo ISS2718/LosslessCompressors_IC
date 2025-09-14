@@ -1,0 +1,66 @@
+[
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 6,
+        "time": 1.023254156112671,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 6,
+        "time": 1.350245714187622,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 9,
+        "time": 2.7303130626678467,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 4,
+        "time": 0.734398365020752,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "webp_lossless",
+        "iteration": 21,
+        "time": 12.440379858016968,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "jp2_lossless",
+        "iteration": 7,
+        "time": 3.644169569015503,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "png",
+        "iteration": 5,
+        "time": 1.861499309539795,
+        "repetition": 0
+    },
+    {
+        "load": "BANK-PIMA",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 15,
+        "time": 1.989201545715332,
+        "repetition": 0
+    }
+]

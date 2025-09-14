@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "zlib",
+        "iteration": 30,
+        "time": 0.22009015083312988,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "gzip",
+        "iteration": 30,
+        "time": 0.3660435676574707,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "bz2",
+        "iteration": 30,
+        "time": 0.21472835540771484,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "ppmd",
+        "iteration": 30,
+        "time": 0.2867755889892578,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "webp_lossless",
+        "iteration": 30,
+        "time": 0.9279329776763916,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "jp2_lossless",
+        "iteration": 30,
+        "time": 1.3605835437774658,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 0.6727256774902344,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "LOGIC",
+        "compressor": "entropy",
+        "iteration": 30,
+        "time": 0.19214844703674316,
+        "repetition": 0
+    }
+]

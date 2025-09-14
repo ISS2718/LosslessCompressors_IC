@@ -1,0 +1,66 @@
+[
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "zlib",
+        "iteration": 4,
+        "time": 0.6849937438964844,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "gzip",
+        "iteration": 4,
+        "time": 1.0142822265625,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "bz2",
+        "iteration": 24,
+        "time": 6.392789840698242,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "ppmd",
+        "iteration": 9,
+        "time": 1.4935882091522217,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "webp_lossless",
+        "iteration": 27,
+        "time": 20.002902030944824,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "jp2_lossless",
+        "iteration": 7,
+        "time": 4.852329969406128,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "png",
+        "iteration": -1,
+        "time": 20.351228952407837,
+        "repetition": 0
+    },
+    {
+        "load": "IONO-SOLAR",
+        "type": "API",
+        "compressor": "entropy",
+        "iteration": 16,
+        "time": 2.1403558254241943,
+        "repetition": 0
+    }
+]

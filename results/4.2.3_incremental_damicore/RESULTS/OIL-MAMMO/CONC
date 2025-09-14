@@ -1,0 +1,66 @@
+[
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "zlib",
+        "iteration": 3,
+        "time": 0.49086785316467285,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "gzip",
+        "iteration": 3,
+        "time": 0.7711608409881592,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "bz2",
+        "iteration": 4,
+        "time": 0.7741432189941406,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "ppmd",
+        "iteration": 13,
+        "time": 2.2954742908477783,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "webp_lossless",
+        "iteration": 7,
+        "time": 3.679868459701538,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "jp2_lossless",
+        "iteration": 4,
+        "time": 2.4117629528045654,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "png",
+        "iteration": 11,
+        "time": 4.00597620010376,
+        "repetition": 0
+    },
+    {
+        "load": "OIL-MAMMO",
+        "type": "CONC",
+        "compressor": "entropy",
+        "iteration": 9,
+        "time": 1.278632640838623,
+        "repetition": 0
+    }
+]
