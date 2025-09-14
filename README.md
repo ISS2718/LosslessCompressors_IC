@@ -54,6 +54,19 @@ source .venv/bin/activate
 
 ---
 
+## 💻 Sistema Utilizado
+
+Os experimentos foram conduzidos no seguinte ambiente:
+
+* **OS:** Ubuntu 22.04.5 LTS on Windows 10 x86\_64 (WSL2)
+* **Kernel:** 6.6.87.2-microsoft-standard-WSL2
+* **Shell:** bash 5.1.16
+* **Terminal:** Windows Terminal
+* **CPU:** Intel i7-10750H (12) @ 2.592GHz
+* **Memória:** 8 GB
+
+---
+
 ## ▶️ Execução dos Scripts
 
 Todos os scripts devem ser executados a partir da pasta `sources/`.
